@@ -1,4 +1,8 @@
 # Instagram
 
-## Recriando a Página do Login do Instagram. 
-## Com orientação da professora Gabriela Pinheiro.
+## Recriando a Página de Login do Instagram. 
+### Com orientação da professora Gabriela Pinheiro.
+
+- Projeto realizado com flexbox.
+
+![Recriação da tela de login do Instagram](https://github.com/FabioAsada/instagram/blob/main/Insta.gif)
