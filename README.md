@@ -1,7 +1,7 @@
 # Instagram
 
 ## Recriando a Página de Login do Instagram. 
-### Com orientação da professora Gabriela Pinheiro.
+### Com orientação da professora **Gabriela Pinheiro**, da **Digital Innovation One**.
 
 - Projeto realizado com flexbox.
 
